@@ -1,0 +1,5 @@
+essentia
+git+https://github.com/mtg/freesound-python.git
+pandas
+numpy
+scikit-learn
