@@ -1,0 +1,7 @@
+files/
+*.wav
+*.ogg
+*.mp3
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
