@@ -1,5 +1,7 @@
 files/
 *.wav
+!518488__cyclez__dark-techno-kick-drum-loop.wav
+!795260__acidkekkonen__acid-kekkonen-hapan-yhteiskunta-best-mongolia-1-acid-bass-loop.wav
 *.ogg
 *.mp3
 __pycache__/
